@@ -12,3 +12,4 @@
 1. 我是拉下来的分之更新的内容
 2. 用test文件名那个项目拉去下来也没问题
 3. 用test文件名改为test-git-command1也没问题，就是说本地名字随便改？是的
+4. 最后test-git-command改为test-git-command2吧， 证明真的本地可以改名字了。
